@@ -1,4 +1,4 @@
 [[rediricts]]
-form="/"
-to="index.html"
+form="/*"
+to="/index.html"
 status=200
